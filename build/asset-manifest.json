@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/predictBTC/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/predictBTC/static/js/main.962caade.chunk.js",
-    "main.js.map": "/predictBTC/static/js/main.962caade.chunk.js.map",
-    "runtime-main.js": "/predictBTC/static/js/runtime-main.4d803436.js",
-    "runtime-main.js.map": "/predictBTC/static/js/runtime-main.4d803436.js.map",
-    "static/js/2.4457a678.chunk.js": "/predictBTC/static/js/2.4457a678.chunk.js",
-    "static/js/2.4457a678.chunk.js.map": "/predictBTC/static/js/2.4457a678.chunk.js.map",
-    "static/js/3.33de78a3.chunk.js": "/predictBTC/static/js/3.33de78a3.chunk.js",
-    "static/js/3.33de78a3.chunk.js.map": "/predictBTC/static/js/3.33de78a3.chunk.js.map",
-    "index.html": "/predictBTC/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/predictBTC/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.4457a678.chunk.js.LICENSE.txt": "/predictBTC/static/js/2.4457a678.chunk.js.LICENSE.txt"
+    "main.css": "/Predict-BTC-Game/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Predict-BTC-Game/static/js/main.cea72fed.chunk.js",
+    "main.js.map": "/Predict-BTC-Game/static/js/main.cea72fed.chunk.js.map",
+    "runtime-main.js": "/Predict-BTC-Game/static/js/runtime-main.efdc1c6e.js",
+    "runtime-main.js.map": "/Predict-BTC-Game/static/js/runtime-main.efdc1c6e.js.map",
+    "static/js/2.11fc1dea.chunk.js": "/Predict-BTC-Game/static/js/2.11fc1dea.chunk.js",
+    "static/js/2.11fc1dea.chunk.js.map": "/Predict-BTC-Game/static/js/2.11fc1dea.chunk.js.map",
+    "static/js/3.33de78a3.chunk.js": "/Predict-BTC-Game/static/js/3.33de78a3.chunk.js",
+    "static/js/3.33de78a3.chunk.js.map": "/Predict-BTC-Game/static/js/3.33de78a3.chunk.js.map",
+    "index.html": "/Predict-BTC-Game/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Predict-BTC-Game/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.11fc1dea.chunk.js.LICENSE.txt": "/Predict-BTC-Game/static/js/2.11fc1dea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d803436.js",
-    "static/js/2.4457a678.chunk.js",
+    "static/js/runtime-main.efdc1c6e.js",
+    "static/js/2.11fc1dea.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.962caade.chunk.js"
+    "static/js/main.cea72fed.chunk.js"
   ]
 }
