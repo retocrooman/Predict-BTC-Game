@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Predict-BTC-Game/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Predict-BTC-Game/static/js/main.5934bcf1.chunk.js",
-    "main.js.map": "/Predict-BTC-Game/static/js/main.5934bcf1.chunk.js.map",
+    "main.js": "/Predict-BTC-Game/static/js/main.cea72fed.chunk.js",
+    "main.js.map": "/Predict-BTC-Game/static/js/main.cea72fed.chunk.js.map",
     "runtime-main.js": "/Predict-BTC-Game/static/js/runtime-main.efdc1c6e.js",
     "runtime-main.js.map": "/Predict-BTC-Game/static/js/runtime-main.efdc1c6e.js.map",
     "static/js/2.11fc1dea.chunk.js": "/Predict-BTC-Game/static/js/2.11fc1dea.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.efdc1c6e.js",
     "static/js/2.11fc1dea.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.5934bcf1.chunk.js"
+    "static/js/main.cea72fed.chunk.js"
   ]
 }
